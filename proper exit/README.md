@@ -1,0 +1,2 @@
+# Properly Exit'ing a Program
+I am slightly familiar with ASM already. I have written a bootloader with a hello world kernel. I have written a hello world program without a bootloader. But this is the first time I have ever covered calls to a dll before. 

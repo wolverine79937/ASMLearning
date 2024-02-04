@@ -1,6 +1,8 @@
 # ASMLearning
 This is my ASM learning archive.
 
+I'm working in Windows 11 so that will be my warning that the C sources included here will have #include <winmain.h> in them and in ASM they'll all be PE's or COFF's.
+
 And it appears that I am going to have to write my own .gitignore for ASM. I had to write a custom .gitignore once before. Que sera.
 
 ## Project Ideas
